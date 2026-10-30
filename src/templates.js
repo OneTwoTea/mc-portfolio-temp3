@@ -667,6 +667,7 @@ export function createRenderers(config) {
       </div>
     </div>
     <p class="${container} mt-6 text-sm text-fg-dim">${esc(f.copyright || "")}</p>
+    <p class="${container} mt-6 text-center text-xs text-fg-dim">© 2026 ProfileStudio.me. Nền tảng xây dựng hồ sơ cá nhân chuyên nghiệp.</p>
   </footer>`;
     },
 
